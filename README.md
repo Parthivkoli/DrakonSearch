@@ -37,6 +37,9 @@ streamlit run streamlit_app.py
 3. Uses **Sentence Transformers** to rank repositories based on semantic similarity.
 4. Displays ranked results with contributors and project health insights.
 
+## UI
+![image](https://github.com/user-attachments/assets/07732b81-cfc4-4ae9-8f26-e4fa205a8935)
+
 ## 🌟 Demo
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-DrakonSearch-yellow)](https://huggingface.co/spaces/ParthivKoli/DrakonSearch)
 
